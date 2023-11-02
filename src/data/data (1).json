@@ -1,0 +1,358 @@
+[
+     {"_name":"c1.1",
+        "name": "Pass Percentage",
+        "fields": [
+            "I Sem",
+            "II Sem",
+            "III Sem",
+            "IV Sem",
+            "V Sem",
+            "VI Sem",
+            "VII Sem",
+            "VIII Sem",
+            "Pass Percentage of Outgoing",
+            "NO. of Students Graduated without Backlogs"
+        ],
+        "Values": {
+            "I Sem": [80, 90],
+            "II Sem": [85, 95],
+            "III Sem": [88, 92],
+            "IV Sem": [90, 94],
+            "V Sem": [92, 93],
+            "VI Sem": [93, 92],
+            "VII Sem": [94, 91],
+            "VIII Sem": [95, 90],
+            "Pass Percentage of Outgoing": [90, 95],
+            "NO. of Students Graduated without Backlogs": [0, 65]
+        }
+    },
+     {"_name":"c1.2",
+        "name": "Placements",
+        "fields": [
+            "Percentage of Placements",
+            "More than 20L Package",
+            "10 to 20L Package",
+            "5 to 10L Package",
+            "Less than 5L Package",
+            "High Package",
+            "Median Package",
+            "Average Package"
+        ],
+        "Values": {
+            "Percentage of Placements": [85, 95],
+            "More than 20L Package": [20, 30],
+            "10 to 20L Package": [40, 50],
+            "5 to 10L Package": [60, 70],
+            "Less than 5L Package": [5, 15],
+            "High Package": [10, 25],
+            "Median Package": [10, 20],
+            "Average Package": [5, 15]
+        }
+    },
+     {"_name":"c1.3",
+        "name": "Higher Studies",
+        "fields": [
+            "Number of students opted Higher Studies"
+        ],
+        "Values": {
+            "Number of students opted Higher Studies": [20, 40]
+        }
+    },
+     {"_name":"c1.4",
+        "name": "MoUs",
+        "fields": [
+            "Added New MoUs this Year"
+        ],
+        "Values": {
+            "Added New MoUs this Year": [3, 7]
+        }
+    },
+     {"_name":"c1.5",
+        "name": "Programs Organized",
+        "fields": [
+            "FDP/WS Two Weeks",
+            "FDP/WS - One Week"
+        ],
+        "Values": {
+            "FDP/WS Two Weeks": [3, 5],
+            "FDP/WS - One Week": [7, 10]
+        }
+    },
+     {"_name":"c1.6",
+        "name": "Conferences Organized",
+        "fields": [
+            "National/International"
+        ],
+        "Values": {
+            "National/International": [5, 15]
+        }
+    },
+     {"_name":"c1.7",
+        "name": "Industry Institute Interaction",
+        "fields": [
+            "Guest Lectures",
+            "Industrial Visits and Tours",
+            "Industrial Projects"
+        ],
+        "Values": {
+            "Guest Lectures": [20, 40],
+            "Industrial Visits and Tours": [10, 25],
+            "Industrial Projects": [5, 15]
+        }
+    },
+     {"_name":"c1.8",
+        "name": "Alumni Activities",
+        "fields": [
+            "Guest Lectures/Internship/Placement Support/Financial Support"
+        ],
+        "Values": {
+            "Guest Lectures/Internship/Placement Support/Financial Support": [30, 50]
+        }
+    },
+     {"_name":"c1.9",
+        "name": "Industry Supported Labs",
+        "fields": []
+    },
+    { "_name":"c1.10",
+        "name": "Start-ups/Incubation Centres",
+        "fields": []
+    },
+     {"_name":"c2.1",
+        "name": "Journal Publications",
+        "fields": [
+            "SCIE",
+            "Scopus",
+            "Total (Includes all Journals)"
+        ],
+        "Values": {
+            "SCIE": [30, 50],
+            "Scopus": [40, 60],
+            "Total (Includes all Journals)": [70, 100]
+        }
+    },
+     {"_name":"c2.2",
+        "name": "Conference Papers",
+        "fields": [
+            "WOS",
+            "Scopus",
+            "Total (Includes all Conferences)"
+        ],
+        "Values": {
+            "WOS": [20, 40],
+            "Scopus": [30, 50],
+            "Total (Includes all Conferences": [50, 80]
+        }
+    },
+     {"_name":"c2.3",
+        "name": "Patents",
+        "fields": [
+            "Published",
+            "Granted",
+            "Applied"
+        ],
+        "Values": {
+            "Published": [5, 10],
+            "Granted": [2, 5],
+            "Applied": [7, 12]
+        }
+    },
+     {"_name":"c2.4",
+        "name": "Faculty Participation",
+        "fields": [
+            "One Week",
+            "Two Week"
+        ],
+        "Values": {
+            "One Week": [10, 20],
+            "Two Week": [5, 15]
+        }
+    },
+     {"_name":"c2.5",
+        "name": "Resource Persons",
+        "fields": [
+            "Guest Lectures",
+            "FDPs",
+            "Journal Editorial members",
+            "Others"
+        ],
+        "Values": {
+            "Guest Lectures": [15, 30],
+            "FDPs": [10, 25],
+            "Journal Editorial members": [3, 8],
+            "Others": [5, 15]
+        }
+    },
+     {"_name":"c2.6",
+        "name": "Faculty Certification Courses",
+        "fields": [
+            "NPTEL",
+            "Coursera",
+            "Others"
+        ],
+        "Values": {
+            "NPTEL": [30, 50],
+            "Coursera": [25, 40],
+            "Others": [15, 30]
+        }
+    },
+     {"_name":"c2.7",
+        "name": "Funded R&D Projects",
+        "fields": [
+            "No. of Projects Applied",
+            "No. of Projects Sanctioned"
+        ],
+        "Values": {
+            "No. of Projects Applied": [5, 10],
+            "No. of Projects Sanctioned": [2, 7]
+        }
+    },
+     {"_name":"c2.8",
+        "name": "Consultancy Amount",
+        "fields": [
+            "Amount spent for undertaking consultancy",
+            "Revenue from consultancy"
+        ],
+        "Values": {
+            "Amount spent for undertaking consultancy": [40, 60],
+            "Revenue from consultancy": [70, 100]
+        }
+    },
+     {"_name":"c2.9",
+        "name": "FDPs",
+        "fields": [
+            "Applied",
+            "Sanctioned"
+        ],
+        "Values": {
+            "Applied": [15, 25],
+            "Sanctioned": [10, 20]
+        }
+    },
+    { "_name":"c2.10",
+        "name": "Professional Memberships",
+        "fields": [
+            "Number of Faculty",
+            "Number of Professional Bodies"
+        ],
+        "Values": {
+            "Number of Faculty": [30, 50],
+            "Number of Professional Bodies": [5, 10]
+        }
+    },
+    { "_name":"c2.11",
+        "name": "Financial Support",
+        "fields": [
+            "No. of Faculty provided with financial support"
+        ],
+        "Values": {
+            "No. of Faculty provided with financial support": [10, 20]
+        }
+    },
+     {
+        "_name":"c3.1",
+        "name": "Student Participation Outside",
+        "fields": [
+            "Participation in university/NIT/IIT",
+            "Participation in other institutions",
+            "No. of prizes won"
+        ],
+        "Values": {
+            "Participation in university/NIT/IIT": [40, 60],
+            "Participation in other institutions": [20, 40],
+            "No. of prizes won": [5, 15]
+        }
+    },
+     {
+        "_name":"c3.2",
+        "name": "Student Certification Courses",
+        "fields": [
+            "NPTEL (No. of students)",
+            "Coursera (No. of students)",
+            "Others (No. of students)"
+        ],
+        "Values": {
+            "NPTEL (No. of students)": [50, 70],
+            "Coursera (No. of students)": [30, 50],
+            "Others (No. of students)": [10, 30]
+        }
+    },
+     {
+        "_name":"c3.3",
+        "name": "Value Added Courses",
+        "fields": [
+            "No. of students",
+            "No. of courses"
+        ],
+        "Values": {
+            "No. of students": [80, 100],
+            "No. of courses": [10, 20]
+        }
+    },
+     {
+        "_name":"c3.4",
+        "name": "Internships",
+        "fields": [
+            "With Stipend",
+            "Without Stipend"
+        ],
+        "Values": {
+            "With Stipend": [20, 40],
+            "Without Stipend": [30, 50]
+        }
+    },
+     {
+        "_name":"c3.5",
+        "name": "Student Publications",
+        "fields": [
+            "Journals",
+            "Conferences",
+            "Total"
+        ],
+        "Values": {
+            "Journals": [15, 30],
+            "Conferences": [10, 25],
+            "Total": [25, 50]
+        }
+    },
+     {
+        "_name":"c3.6",
+        "name": "Participation in Online Coding Platforms",
+        "fields": [
+            "No. of students"
+        ],
+        "Values": {
+            "No. of students": [30, 50]
+        }
+    },
+     {
+        "_name":"c3.7",
+        "name": "Student Awards/Gold Medals",
+        "fields": []
+    },
+     {
+        "_name":"c3.8",
+        "name": "Scholarships",
+        "fields": [
+            "Number of Students",
+            "Number of Organizations",
+            "Total Amount"
+        ],
+        "Values": {
+            "Number of Students": [60, 80],
+            "Number of Organizations": [8, 12],
+            "Total Amount": [15, 25]
+        }
+    },
+     {
+        "_name":"c3.9",
+        "name": "Professional Body Memberships",
+        "fields": [
+            "Number of Students",
+            "Number of Professional Bodies"
+        ],
+        "Values": {
+            "Number of Students": [90, 110],
+            "Number of Professional Bodies": [7, 12]
+        }
+    }
+]
