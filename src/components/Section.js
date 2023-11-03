@@ -18,10 +18,10 @@ const Section = ({data}) => {
   return (
     <div className='bg-blue-700 text-white rounded-xl m-2 p-8 '>
         <h3 className='text-2xl capitalize mb-4 text'>{data._name} <span className=' font-bold px-6 rounded-full'>  {data.name}</span></h3>
-        <table className='table-auto'>
+        <table className='table-auto  w-full'>
             <thead>
-            <tr className='border-b-2 mb-2x bg-slate-500 '>
-                <th>Title</th>
+            <tr className='border-b-2 mb-2x text-left'>
+                <th className='w-2/4'>Title</th>
                 <th>Numerator</th>
                 <th>Denominator</th>
                 <th>Percentage</th>
